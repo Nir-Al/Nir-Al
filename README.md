@@ -1,3 +1,5 @@
+<img src="https://github.com/Nir-Al/Nir-Al/assets/140895618/37d6e68e-cbad-48d3-8d35-46b48ee1a9f9" width="1000">
+
 ## Who am I? <img src="https://github.com/Nir-Al/Nir-Al/assets/140895618/29c90741-cb14-4519-ba6c-3cf49204a9ac" width="50">
 
  ```python
