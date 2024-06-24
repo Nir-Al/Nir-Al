@@ -24,7 +24,7 @@
 
  ```
 
-## Programming & Modeling <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+## Programming & Modelling <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 <p>
     <a href="#"><img src="https://img.shields.io/badge/Python-blue"></a>
     <a href="#"><img src="https://img.shields.io/badge/MATLAB-orange"></a>
