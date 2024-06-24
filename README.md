@@ -18,3 +18,9 @@
 	  def Get_Ambitions():
 		  Become_A_Researcher()
 		  Change_The_World()
+
+ ```
+
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nir-Al&layout=compact&theme=github_bright"/>|
