@@ -1,4 +1,4 @@
-## Who am I?
+## Who am I? <img src="https://github.com/Nir-Al/Nir-Al/assets/140895618/29c90741-cb14-4519-ba6c-3cf49204a9ac" width="50">
 
  ```python
   class Who_Am_I:
@@ -6,6 +6,7 @@
 	current_edu_A = "Technion - Institute of Technology"
     current_edu_B = "Undergraduate for a B.Sc in Biomedical Engineering and Physics"
     currently_learning = "Machine Learning"
+    currently_working_in = "Magnetic Resonance Laboratories"
     fun_fact_A = "I enjoy employing mathematical models for artistic creation"
     fun_fact_B = "I am proficient in crafting origami using Kinder wrappings"
 	hobbies = [
@@ -20,7 +21,8 @@
 		  Change_The_World()
 
  ```
-## Programming & Modeling
+
+## Programming & Modeling <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
 <p>
     <a href="#"><img src="https://img.shields.io/badge/Python-blue"></a>
     <a href="#"><img src="https://img.shields.io/badge/MATLAB-orange"></a>
