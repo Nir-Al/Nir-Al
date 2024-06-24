@@ -21,6 +21,19 @@
 
  ```
 
-## Github Stats
+## Programming & Modeling
+<p>
+    <a href="#"><img src="https://img.shields.io/badge/Python-blue"></a>
+    <a href="#"><img src="https://img.shields.io/badge/MATLAB-orange"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Julia-purple"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Simulink-red"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Simscape-7298cf"></a>
+    <a href="#"><img src="https://img.shields.io/badge/VSCode-287ef7"></a> 
+    <a href="#"><img src="https://img.shields.io/badge/Rhino-bd0404"></a> 
+    <a href="#"><img src="https://img.shields.io/badge/ANSYS-Maxwell-f7ce28"></a> 
+    <a href="#"><img src="https://img.shields.io/badge/Autodesk-Fusion-ff9a26"></a> 
+    <a href="#"><img src="https://img.shields.io/badge/Autodesk-Inventor-ebbe09"></a> 
+    <a href="#"><img src="https://img.shields.io/badge/LT-Spice-820707"></a> 
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nir-Al&layout=compact&theme=github_bright"/>|
+
