@@ -1,16 +1,19 @@
-## Hi there 👋
+## Who am I?
 
-<!--
-**Nir-Al/Nir-Al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ```python
+  class WhoAmI:
+    user = 'Nir Almog'
+	current_edu_A = "Technion - Institute of Technology"
+    current_edu_B = "Undergraduate for a B.Sc in Biomedical Engineering and Physics"
+    currently_learning = "Machine Learning"
+    fun_fact = "I am proficient in crafting origami using Kinder wrappings"
+	  hobbies = [
+                  'Drawing',
+                  'Reading',
+	              'Swimming',
+	              'Hanging out'
+			]
+	
+	  def getAmbitions():
+		  Become_A_Researcher()
+		  Change_The_World()
