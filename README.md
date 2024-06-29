@@ -1,4 +1,4 @@
-<img src="https://github.com/Nir-Al/Nir-Al/assets/140895618/a024efb7-37fc-4cc2-adf6-9d1d8dbc20e8" width="1000">
+<img src="https://github.com/Nir-Al/Nir-Al/assets/140895618/a024efb7-37fc-4cc2-adf6-9d1d8dbc20e8" width="700">
 
 
 ## Who am I? <img src="https://github.com/Nir-Al/Nir-Al/assets/140895618/29c90741-cb14-4519-ba6c-3cf49204a9ac" width="50">
